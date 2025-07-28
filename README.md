@@ -26,3 +26,8 @@ A smart and interactive chatbot that helps students make informed career decisio
 
 ## 🚀 Getting Started
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/kalyanram81799/guidance-gnome.git
+cd student-career-chatbot
